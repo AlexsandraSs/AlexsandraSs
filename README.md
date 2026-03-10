@@ -18,8 +18,7 @@ Sou apaixonada por tecnologia e estou sempre aprendendo **programação, algorit
 
 ## 📚 Projetos em destaque
 
-🔹 **Conversor de Temperatura em Java**  
-🔹 **Sequência de Fibonacci**  
+🔹 **Conversor de Temperatura em Java**    
 🔹 **Exercícios de Lógica de Programação**  
 🔹 **Algoritmos e Fluxogramas**  
 
@@ -44,8 +43,8 @@ Sou apaixonada por tecnologia e estou sempre aprendendo **programação, algorit
 
 ## 📫 Contato
 
-💼 LinkedIn  
-📧 Email profissional  
+💼 LinkedIn : www.linkedin.com/in/alexsandrasilvadev
+📧 Email profissional : alesousa7890@gmail.com
 
 ---
 
