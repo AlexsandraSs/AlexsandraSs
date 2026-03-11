@@ -11,7 +11,7 @@ Vivendo na tecnologia e estou sempre aprendendo **programação, algoritmos e de
 ## 🚀 Tecnologias & Ferramentas
 
 <p>
-<img src="https://skillicons.dev/icons?i=java,git,github" />
+<img src="https://skillicons.dev/icons?i=java,git,github,eclipse" />
 </p>
 
 ---
