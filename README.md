@@ -20,7 +20,9 @@ Sou apaixonada por tecnologia e estou sempre aprendendo **programação, algorit
 
 🔹 **Conversor de Temperatura em Java**    
 🔹 **Exercícios de Lógica de Programação**  
-🔹 **Algoritmos e Fluxogramas**  
+🔹 **Algoritmos e Fluxogramas**
+🔹 **Conta bancaria**
+🔹 **Projeto Front-End**  
 
 ---
 
