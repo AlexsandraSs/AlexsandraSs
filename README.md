@@ -4,7 +4,7 @@
 💻 Desenvolvedora em formação  
 🚀 Atualmente participando de projeto de tecnologia na **FURB**  
 
-Sou apaixonada por tecnologia e estou sempre aprendendo **programação, algoritmos e desenvolvimento de software**.
+Vivendo na tecnologia e estou sempre aprendendo **programação, algoritmos e desenvolvimento de software**.
 
 ---
 
