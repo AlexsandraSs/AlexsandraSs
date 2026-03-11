@@ -24,6 +24,7 @@ Sou apaixonada por tecnologia e estou sempre aprendendo **programação, algorit
 🔹 **Conta bancaria**
 🔹 **Projeto Front-End**  
 
+
 ---
 
 ## 🌱 Atualmente estudando
